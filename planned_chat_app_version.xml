@@ -12,11 +12,11 @@
         </item>
 
         <!-- IOS UPDATED DOWN BELOW -->
-        <item>
+        <!-- <item>
             <title>Version 2.0.4 (iOS)</title>
             <description>Minor updates and improvements for iOS.</description>
             <pubDate>FRI, 02 Nov 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/app/your-ios-app-id" sparkle:version="2.0.4" sparkle:os="osx" />
+            <enclosure url="https://apps.apple.com/app/your-ios-app-id" sparkle:version="2.0.4" sparkle:os="osx" /> -->
         </item>
     </channel>
 </rss>
